@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ProjectileAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9348c0fefe939a04dba7c8e66b84137e, type: 3}
+    - {fileID: 2800000, guid: b6cb3208689ae974a9052acb79765eb3, type: 3}
+    - {fileID: 2800000, guid: 53c7fa14ba5cc694caa81b9de5f8be7a, type: 3}
+    - {fileID: 2800000, guid: c2328e985a1cbf046a4aa192c0115b27, type: 3}
+    - {fileID: 2800000, guid: 32bed41511bd01740a4cf408e31dffa8, type: 3}
+    - {fileID: 2800000, guid: 84ca5054fcd05114eb4b5cc9e79f3699, type: 3}
+    - {fileID: 2800000, guid: 8dd87a571e6835645b725d0f0fb2c745, type: 3}
+    - {fileID: 2800000, guid: 770f08a68251f53438c44a555870c859, type: 3}
+    - {fileID: 2800000, guid: bbcc3f19c70731444885c8b07713cf7a, type: 3}
+    - {fileID: 2800000, guid: 3471ca800e0f6384ba5fc36d1d628a24, type: 3}
+    - {fileID: 2800000, guid: 73ce6dca3db8bda4093d20d14978ef6f, type: 3}
+    - {fileID: 2800000, guid: 8caae8cb1b37ee24caf1ec3a04dc0083, type: 3}
+    - {fileID: 102900000, guid: 8500baff21b7f3640a1993d8bdbc3274, type: 3}
+    - {fileID: 102900000, guid: e34d7fa5003de7346bb60fe776708f7a, type: 3}
+    - {fileID: 102900000, guid: 9bc873b917a20e3438ecef3b1ca41d42, type: 3}
+    totalSpriteSurfaceArea: 13484496
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: bf5664f9f0e6c9de962cd22e2f8e91ba
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6278412047f498d4eba8699ea3c97d2d, type: 3}
+  - {fileID: 21300000, guid: 71ac4a70601729d4992cdd079d14ca27, type: 3}
+  - {fileID: 21300000, guid: 3471ca800e0f6384ba5fc36d1d628a24, type: 3}
+  - {fileID: 21300000, guid: 69839e903d1596441828428f0d2aeb42, type: 3}
+  - {fileID: 21300000, guid: 794a9b01ba8fd8841aa108a440b6be2d, type: 3}
+  - {fileID: 21300000, guid: ad07bc0107dd3fc41902a966dcd9a684, type: 3}
+  - {fileID: 21300000, guid: 53f2048166ba10e44bb98503c7d1ff73, type: 3}
+  - {fileID: 21300000, guid: 37473eb1eb6974e46b89a2d0a40e660d, type: 3}
+  - {fileID: 21300000, guid: 7a56f0f10aa59ec47a4bd3298c1ed37f, type: 3}
+  - {fileID: 21300000, guid: b4643442e77ec144dba147931c4a42c2, type: 3}
+  - {fileID: 21300000, guid: b9aa2262596bf51468d4a43a500faa93, type: 3}
+  - {fileID: 21300000, guid: 38eebcd2ff053bd40957047a064e1add, type: 3}
+  - {fileID: 21300000, guid: b88d4903016cd574a99359aeb66f807c, type: 3}
+  - {fileID: 21300000, guid: e128dc23beda4564cbcc06a6cb553e76, type: 3}
+  - {fileID: 21300000, guid: ccd1d4a3b1f0ff249becc572f8e882f1, type: 3}
+  - {fileID: 21300000, guid: 06deaac313d29c54ab606fc2a7d687f2, type: 3}
+  - {fileID: 21300000, guid: 42e915f3bae6de4448e1ed42917ed091, type: 3}
+  - {fileID: 21300000, guid: 53c7fa14ba5cc694caa81b9de5f8be7a, type: 3}
+  - {fileID: 21300000, guid: 9e14112426858df498bf12f4ec66564e, type: 3}
+  - {fileID: 21300000, guid: 472e4934c6d0ce94fb2bdc371d9d0534, type: 3}
+  - {fileID: 21300000, guid: 84ca5054fcd05114eb4b5cc9e79f3699, type: 3}
+  - {fileID: 21300000, guid: cb7b0684020e7b347bd44bacb3c101ac, type: 3}
+  - {fileID: 21300000, guid: 7aea729485eafa14ea917ee2045ebcc6, type: 3}
+  - {fileID: 21300000, guid: 165fc6a4c1541b345882fcd0bd808170, type: 3}
+  - {fileID: 21300000, guid: 8d9ef60581987124bba1c5da09d89409, type: 3}
+  - {fileID: 21300000, guid: 32bed41511bd01740a4cf408e31dffa8, type: 3}
+  - {fileID: 21300000, guid: 7a820f85c8dfc1d408193735ed7ea29a, type: 3}
+  - {fileID: 21300000, guid: c0b48cd51d6ab264da7a89fa11e3cee4, type: 3}
+  - {fileID: 21300000, guid: eb345fd56ed95344bb786702c45c361a, type: 3}
+  - {fileID: 21300000, guid: 73eec606ee2378f45841e6e27a300176, type: 3}
+  - {fileID: 21300000, guid: 73db8f165699e8146b9b5a2a0b93010f, type: 3}
+  - {fileID: 21300000, guid: 1ab10266c927f73488de3f97d1146912, type: 3}
+  - {fileID: 21300000, guid: 770f08a68251f53438c44a555870c859, type: 3}
+  - {fileID: 21300000, guid: ce9ff0c63b86e1b4f82319e91879aa19, type: 3}
+  - {fileID: 21300000, guid: c94370f680b6cbe478e21aad179fae53, type: 3}
+  - {fileID: 21300000, guid: 29777757fc5a63045bf65028329e9a9c, type: 3}
+  - {fileID: 21300000, guid: 8dd87a571e6835645b725d0f0fb2c745, type: 3}
+  - {fileID: 21300000, guid: 82dfe8678348a914e860739a725693f2, type: 3}
+  - {fileID: 21300000, guid: f622f967e99f9fb48b6afae6ad20ade7, type: 3}
+  - {fileID: 21300000, guid: 929d14872ea7c4f4b86abf5eefe6bf32, type: 3}
+  - {fileID: 21300000, guid: ab1d23d79224f184bad18acb873c8f6d, type: 3}
+  - {fileID: 21300000, guid: b6cb3208689ae974a9052acb79765eb3, type: 3}
+  - {fileID: 21300000, guid: d976a0687a61a454c9c712469fcc38f5, type: 3}
+  - {fileID: 21300000, guid: 1ec12b68c431b394981ad797785749dc, type: 3}
+  - {fileID: 21300000, guid: c2328e985a1cbf046a4aa192c0115b27, type: 3}
+  - {fileID: 21300000, guid: 892089a834d9dd443a4fe90901151ef8, type: 3}
+  - {fileID: 21300000, guid: ac4026c833fabac4785f6d7be97a8bb6, type: 3}
+  - {fileID: 21300000, guid: 911887c827a74ae45a024aab65f70284, type: 3}
+  - {fileID: 21300000, guid: 86bce619932c7814f98b454941c21dc9, type: 3}
+  - {fileID: 21300000, guid: a86ee819404cfca44b14e765f2043c43, type: 3}
+  - {fileID: 21300000, guid: bbcc3f19c70731444885c8b07713cf7a, type: 3}
+  - {fileID: 21300000, guid: 8d74eb69afa91e448bff143bdfe5c0f3, type: 3}
+  - {fileID: 21300000, guid: 7c95df79e8b4ce748b59512a1442a3db, type: 3}
+  - {fileID: 21300000, guid: 8d272c99613e28141a9248015e35542a, type: 3}
+  - {fileID: 21300000, guid: 8e73fdd9902b4674eb6f274761e5afca, type: 3}
+  - {fileID: 21300000, guid: 18772ff9de460c44ca33714173353936, type: 3}
+  - {fileID: 21300000, guid: aefee15a272e52c4aa90d302d4e25700, type: 3}
+  - {fileID: 21300000, guid: 22da427a6e5d33e4589722bf7e51d21d, type: 3}
+  - {fileID: 21300000, guid: 790dd09adf7cec7429b9a152ba1c0e70, type: 3}
+  - {fileID: 21300000, guid: 11f6979af2714054c962e0c7ca391a3a, type: 3}
+  - {fileID: 21300000, guid: bf76f2aa7ffffec47aaac5ba8e9bc4ad, type: 3}
+  - {fileID: 21300000, guid: 19c1f2ca38404e248a2bf241600c959e, type: 3}
+  - {fileID: 21300000, guid: d4b295ca64f0b0042a92f6fea7b8edac, type: 3}
+  - {fileID: 21300000, guid: 73ce6dca3db8bda4093d20d14978ef6f, type: 3}
+  - {fileID: 21300000, guid: 1e4de8da2db31424facedd603d524f15, type: 3}
+  - {fileID: 21300000, guid: 9d41f20b3bfd2e041bebde664e7644d4, type: 3}
+  - {fileID: 21300000, guid: e3d23f9ba7344494394defd6da22526e, type: 3}
+  - {fileID: 21300000, guid: 8caae8cb1b37ee24caf1ec3a04dc0083, type: 3}
+  - {fileID: 21300000, guid: 83e382dbc7882d04e95e9b96c8250034, type: 3}
+  - {fileID: 21300000, guid: b1f2520cb15a6ef4c95afc8b4fb0c3c4, type: 3}
+  - {fileID: 21300000, guid: 2711180c7789ba845b1a96ab6e25509f, type: 3}
+  - {fileID: 21300000, guid: a8d9083ced2b61e448a869a6f99a2ec3, type: 3}
+  - {fileID: 21300000, guid: 4da1db6c2c86c564cab00bc23c6cef5e, type: 3}
+  - {fileID: 21300000, guid: 9ca8ac8cb71786f43940022dde03a117, type: 3}
+  - {fileID: 21300000, guid: abf30ecca3ffb07458b5eb0fb0e231fb, type: 3}
+  - {fileID: 21300000, guid: 918e94fc66db0104586b95b2654e47ed, type: 3}
+  - {fileID: 21300000, guid: 6f443c0d10a3d8043b112f20f20a275a, type: 3}
+  - {fileID: 21300000, guid: 2025d45d2a05ae542bd2fe8dbf81c896, type: 3}
+  - {fileID: 21300000, guid: 615f689d949ff8243bf512a781f14ae5, type: 3}
+  - {fileID: 21300000, guid: 7e8d49ad0bea2ea469d9be0d7da204b9, type: 3}
+  - {fileID: 21300000, guid: d960d0dd25251c844aef157de9688f15, type: 3}
+  - {fileID: 21300000, guid: 12ff0b0e40aa02a46bf14d0aa32b813c, type: 3}
+  - {fileID: 21300000, guid: 79cb8e1e7c1724646b22c65d47a3d5e7, type: 3}
+  - {fileID: 21300000, guid: c8eb815e4d1840f44b7f8ecf86eab5c9, type: 3}
+  - {fileID: 21300000, guid: f69760aeed64c6b4db32dce279c5daf9, type: 3}
+  - {fileID: 21300000, guid: 2aa4f3bec85212c42a2f30af4f38d8b7, type: 3}
+  - {fileID: 21300000, guid: 9348c0fefe939a04dba7c8e66b84137e, type: 3}
+  - {fileID: 21300000, guid: d65a680f4e0b8d544b8e4e0076c22405, type: 3}
+  - {fileID: 21300000, guid: 86d7611f0c5982242bc10b3812b0dbf4, type: 3}
+  - {fileID: 21300000, guid: 29221d2fb953f084f8e7e2f7b62c88f4, type: 3}
+  - {fileID: 21300000, guid: 4d5e897fdb456ed499fabcbae677dd23, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\uC2A4\uD0AC2_\uBBF8\uB3C4"
+  - "\uC2A4\uD0AC1_\uCE74\uB974\uACE0\uC2A4"
+  - "\uACF5\uACA9\uD6A8\uACFC_\uD06C\uB808\uD0C0"
+  - "\uC2A4\uD0AC2_\uCE74\uB974\uACE0\uC2A4"
+  - "\uC77C\uBC18\uACF5\uACA9_\uB808\uC774\uB4E0"
+  - "\uC2A4\uD0AC3_\uBA54\uB974\uC138\uB4DC"
+  - "\uC2A4\uD0AC1_\uD558\uC774\uB79C\uB354"
+  - "\uC2A4\uD0AC2_\uC5D8\uB9AC\uBA54\uB2C8"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uBA54\uB4DC"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uB808\uC774\uB4E0"
+  - "\uC2A4\uD0AC2_\uB808\uD53C\uD0C0"
+  - "\uC2A4\uD0AC1_\uB4DC\uB808\uC774\uD06C"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uB7EC\uC140"
+  - "\uC77C\uBC18\uACF5\uACA9_\uBC14\uB974\uD14C"
+  - "\uC2A4\uD0AC1_\uB124\uD53C\uC2A4\uD1A0"
+  - "\uC2A4\uD0AC1_\uC544\uCE74\uB8E8\uC2A4"
+  - "\uC77C\uBC18\uACF5\uACA9_\uCF54\uB85C\uB098"
+  - KakaoTalk_20191209_211723873
+  - "\uC2A4\uD0AC3_\uC138\uB974\uBCA4\uD2B8"
+  - "\uC2A4\uD0AC1_\uD50C\uB8E8\uD1A0"
+  - "\uACF5\uACA9\uD6A8\uACFC_\uB85C\uBE48"
+  - "\uC2A4\uD0AC2_\uC138\uB974\uBCA4\uD2B8"
+  - "\uC2A4\uD0AC1_\uC138\uB974\uBCA4\uD2B8"
+  - "\uC2A4\uD0AC2_\uB9AC\uC2DC\uD14C\uC544"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uD788\uC2A4"
+  - "\uACF5\uACA9\uD6A8\uACFC_\uAD6C\uC2A4\uD130"
+  - "\uC2A4\uD0AC2_\uD50C\uB8E8\uD1A0"
+  - "\uC77C\uBC18\uACF5\uACA9_\uC774\uD398"
+  - "\uC77C\uBC18_\uAC8C\uC77C"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uCF54\uB85C\uB098"
+  - "\uC77C\uBC18_\uD50C\uB8E8\uD1A0"
+  - "\uC2A4\uD0AC2_\uD050\uB9AC\uC6B0\uC2A4"
+  - "\uACF5\uACA9\uD6A8\uACFC_\uBA54\uC774"
+  - "\uC77C\uBC18_\uC5D8\uB9AC\uBA54\uB2C8"
+  - "\uC77C\uBC18_\uCE74\uB974\uACE0\uC2A4"
+  - "\uC77C\uBC18_\uB808\uD53C\uD0C0"
+  - "\uACF5\uACA9\uD6A8\uACFC_\uB85C\uC774\uB4DC"
+  - "\uC2A4\uD0AC2_\uAC8C\uC77C"
+  - "\uC77C\uBC18\uACF5\uACA9_\uBA54\uB4DC"
+  - "\uC77C\uBC18\uACF5\uACA9_\uB9AC\uBCA0\uC544"
+  - "\uC77C\uBC18\uACF5\uACA9_\uB7EC\uC140"
+  - KakaoTalk_20191209_211721583
+  - "\uC77C\uBC18_\uC544\uCE74\uB8E8\uC2A4"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uBC14\uB974\uD14C"
+  - KakaoTalk_20191209_211726749
+  - "\uC2A4\uD0AC1_\uC5D8\uB9AC\uBA54\uB2C8"
+  - "\uC2A4\uD0AC3_\uC5D8\uB9AC\uBA54\uB2C8"
+  - "\uC77C\uBC18_\uD050\uB9AC\uC6B0\uC2A4"
+  - "\uC77C\uBC18\uACF5\uACA9_\uAE30\uBE14\uB9AC"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uC774\uD398"
+  - "\uACF5\uACA9\uD6A8\uACFC_\uC544\uD0A4\uB098"
+  - "\uC2A4\uD0AC1_\uAC8C\uC77C"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uC138\uD0C0"
+  - "\uC2A4\uD0AC1_\uB808\uD53C\uC628"
+  - "\uC77C\uBC18\uACF5\uACA9_\uD788\uC2A4"
+  - "\uC77C\uBC18\uACF5\uACA9_\uC138\uD0C0"
+  - "\uC2A4\uD0AC1_\uD0C8\uB80C\uC2DC\uC544"
+  - "\uC77C\uBC18_\uBA54\uB974\uC138\uB4DC"
+  - "\uC2A4\uD0AC2_\uC544\uCE74\uB8E8\uC2A4"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uC5D0\uB378"
+  - "\uC2A4\uD0AC2_\uB808\uD53C\uC628"
+  - "\uC2A4\uD0AC1_\uB9AC\uC2DC\uD14C\uC544"
+  - "\uC77C\uBC18_\uC138\uB974\uBCA4\uD2B8"
+  - "\uACF5\uACA9\uD6A8\uACFC_\uD06C\uB85C\uC2A4"
+  - "\uC2A4\uD0AC1_\uD050\uB9AC\uC6B0\uC2A4"
+  - "\uC77C\uBC18_\uB9AC\uC2DC\uD14C\uC544"
+  - "\uC77C\uBC18_\uB808\uD53C\uC628"
+  - "\uACF5\uACA9\uD6A8\uACFC_\uD14C\uB9B0"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uC13C"
+  - "\uC2A4\uD0AC1_\uD504\uB85C\uBBF8\uB10C\uC2A4"
+  - "\uC2A4\uD0AC1_\uBBF8\uB3C4"
+  - "\uC2A4\uD0AC2_\uBA54\uB974\uC138\uB4DC"
+  - "\uC2A4\uD0AC2_\uB124\uD53C\uC2A4\uD1A0"
+  - "\uC77C\uBC18_\uD504\uB85C\uBBF8\uB10C\uC2A4"
+  - "\uC2A4\uD0AC3_\uD0C8\uB80C\uC2DC\uC544"
+  - "\uC2A4\uD0AC3_\uD558\uC774\uB79C\uB354"
+  - "\uC77C\uBC18\uACF5\uACA9_\uC5D0\uB378"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uAE30\uBE14\uB9AC"
+  - "\uC77C\uBC18\uACF5\uACA9_\uC13C"
+  - "\uC77C\uBC18_\uD0C8\uB80C\uC2DC\uC544"
+  - "\uC77C\uBC18_\uBBF8\uB3C4"
+  - "\uC77C\uBC18_\uD558\uC774\uB79C\uB354"
+  - "\uC2A4\uD0AC2_\uD558\uC774\uB79C\uB354"
+  - "\uC2A4\uD0AC2_\uB4DC\uB808\uC774\uD06C"
+  - "\uC2A4\uD0AC2_\uD0C8\uB80C\uC2DC\uC544"
+  - "\uC2A4\uD0AC1_\uBA54\uB974\uC138\uB4DC"
+  - KakaoTalk_20191209_130025617
+  - "\uC77C\uBC18_\uB124\uD53C\uC2A4\uD1A0"
+  - "\uC2A4\uD0AC\uACF5\uACA9_\uB9AC\uBCA0\uC544"
+  - "\uC2A4\uD0AC1_\uB808\uD53C\uD0C0"
+  - "\uC77C\uBC18_\uB4DC\uB808\uC774\uD06C"
+  m_Tag: ProjectileAtlas
+  m_IsVariant: 0
